@@ -1,0 +1,15 @@
+folder = /media/HD2/Vineeth/PostDoc_Simulations/Github/MaserMaxwellBloch/MaserThermal/3
+T1 = 5.00, T2 = 0.20, R1 = 0.20, R2 = 5.00, Mo = [0.004 0.004]
+RD_rate = 7.0, Rd_Cont (chi) = 1750.0, Rd_Phase = 0.0, FB_Gain = 1.0, FB_Phase = 3.141592653589793
+flip_theta (deg) = 10.0, flip_phi (deg) = 0.0
+Wo (Hz) = [10.  10.5]
+No_Chem_Peaks = 2, No_isochromats = 1
+AQ_points = 400000, AQ_dt = 0.00025, AQ_time = 100.0
+leakage_amp = 0.0, leakage_freq = 0.0, leakage_phase = 0.0 
+Freq_bin = 0.05
+Wz_band_shape = (2, 1)
+Wz_band = [[10. ]
+ [10.5]]
+Band Widht = 0.0
+Solve IVP method = DOP853
+Total time = 6.663397550582886
